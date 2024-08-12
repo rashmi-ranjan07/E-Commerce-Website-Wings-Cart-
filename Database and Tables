@@ -1,0 +1,4 @@
+Hosted with the help of Xampp Server.
+In the phpMyadmin section (MySql),
+- Database Name : mystore
+- Tables Name : brands, cart_details, categories, products, 
