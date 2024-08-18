@@ -1,5 +1,5 @@
 Hosted with the help of Xampp Server.
-In the Xampp Control Panel starting the services of Apache and MySql.
+In the Xampp Control Panel start the services of Apache and MySql.
 In the phpMyadmin section (MySql),
 - Database Name : mystore
 - Tables Name : brands, cart_details, categories, products, admin_table, orders_pending, user_orders, user_payments, user_table
